@@ -90,7 +90,6 @@ Below are some examples of test results, demonstrating original images and corre
 - **Original Image 2**: ![Original Image 2](test_2.jpg)
 - **Prediction Image 2**: ![Prediction Image 2](test_2_pred.png)
 
-(Add more images as needed)
 
 ## Contributing
 
