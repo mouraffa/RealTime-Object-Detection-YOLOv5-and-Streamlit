@@ -85,10 +85,10 @@ Run `04. test_for_images_and_videos.py` to test the predictions on specific imag
 Below are some examples of test results, demonstrating original images and corresponding images with predictions:
 
 - **Original Image 1**: ![Original Image 1](test_1.jpg)
-- **Prediction Image 1**: ![Prediction Image 1](test_1.jpg)
+- **Prediction Image 1**: ![Prediction Image 1](test_1_pred.png)
 
-- **Original Image 2**: ![Original Image 2](test_4.jpg)
-- **Prediction Image 2**: ![Prediction Image 2](test_2.jpg)
+- **Original Image 2**: ![Original Image 2](test_2.jpg)
+- **Prediction Image 2**: ![Prediction Image 2](test_2_pred.png)
 
 (Add more images as needed)
 
