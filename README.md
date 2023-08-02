@@ -57,7 +57,7 @@ The model was specifically trained for the detection of the following objects:
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: [visite the github repository](https://github.com/ultralytics/yolov5)
 
 2. Install the required packages from the `requirements.txt` file:
 
@@ -95,8 +95,4 @@ Below are some examples of test results, demonstrating original images and corre
 ## Contributing
 
 Feel free to contribute by submitting pull requests or opening issues.
-
-## License
-
-[MIT License](LICENSE)
 
