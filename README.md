@@ -53,7 +53,7 @@ Here are some examples of test results obtained using the Streamlit web app:
 
 ## Screenshots
 - **Home page**: ![Home page](sc1.png)
-- **Upload the image**: ![Upload the image](sc2.png)
+- **Upload an image**: ![Upload the image](sc2.png)
 
 - **visualize the image**: ![visualize the image](sc3.png)
 - **predictions**: ![predictions](sc4.png)
