@@ -52,10 +52,10 @@ Here are some examples of test results obtained using the Streamlit web app:
 - **Predicted Image 2**: ![Predicted Image 2](test_2_pred.png)
 
 ## Screenshots
-![](sc1.jpg)
-![](sc2.jpg)
-![](sc3.jpg)
-![](sc4.jpg)
+[](sc1.jpg)
+[](sc2.jpg)
+[](sc3.jpg)
+[](sc4.jpg)
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to enhance the project, feel free to submit pull requests or open issues.
