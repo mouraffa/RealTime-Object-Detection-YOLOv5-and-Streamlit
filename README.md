@@ -52,10 +52,10 @@ Here are some examples of test results obtained using the Streamlit web app:
 - **Predicted Image 2**: ![Predicted Image 2](test_2_pred.png)
 
 ## Screenshots
-- **Home page**: ![Home page](sc1.jpg)
+- **Home page**: ![Home page](sc1.png)
 - **Upload the image**: ![Upload the image](sc2.png)
 
-- **visualize the image**: ![visualize the image](sc3.jpg)
+- **visualize the image**: ![visualize the image](sc3.png)
 - **predictions**: ![predictions](sc4.png)
 ## Contributing
 
