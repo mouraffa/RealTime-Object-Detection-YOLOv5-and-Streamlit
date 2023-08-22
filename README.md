@@ -20,20 +20,23 @@ I initially trained the YOLOv5 model from scratch using Google Colab and Google 
 
 I have created a Streamlit web application that allows users to upload images and perform object detection using the trained YOLOv5 model. The web app provides a user-friendly interface to visualize the detection results and gain insights into the objects present in the uploaded images.
 
+You can test the web app by clicking [here](https://your-web-app-url.com).
+
 ## Installation
 
 1. Clone this repository to your local machine:
-```git clone https://github.com/yourusername/your-repo-name.git```
+```git clone https://github.com/mouraffa/RealTime-Object-Detection-YOLOv5.git```
 
 
 2. Install the required packages from the `requirements.txt` file:
+
 ```pip install -r requirements.txt```
 
 
 ## Usage
 
 1. Run the Streamlit web app locally:
-```streamlit run streamlit_app.py```
+```streamlit run Home.py```
 
 
 2. Access the web app in your web browser and follow the instructions to upload an image and perform object detection.
@@ -48,6 +51,12 @@ Here are some examples of test results obtained using the Streamlit web app:
 - **Original Image 2**: ![Original Image 2](test_2.jpg)
 - **Predicted Image 2**: ![Predicted Image 2](test_2_pred.png)
 
+## Screenshots
+![](sc1.jpg)
+![](sc2.jpg)
+![](sc3.jpg)
+![](sc4.jpg)
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to enhance the project, feel free to submit pull requests or open issues.
+
